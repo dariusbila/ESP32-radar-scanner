@@ -112,12 +112,3 @@ esp32-radar-scanner/
 
 Full project documentation is available in [`docs/radar_scanner_documentation.pdf`](docs/radar_scanner_documentation.pdf).
 
-## Authors
-
-- Parocescu Darius Andrei
-- Untaru Raul Andrei
-- Boltasu Iustin
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
